@@ -1,0 +1,1 @@
+declare var THIS_IS_A_KEY:string; 
